@@ -1,0 +1,1 @@
+java -jar -Xmx2048M -Xms2048M EtWServer.jar 10001 Japan
