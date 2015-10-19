@@ -13,8 +13,7 @@ Gameplay features :
   In order to allow players to chose between different strategies, the player can chose a class among the ones available.
   Each class has its own items : one specific weapon with its own characteristics and special objects which can be placed to help your team take the lead. Those items range from a simple block the player can placed to either hamper the enemy team or create new opportunities to a shovel and a camera.
   Thanks to those classes, the attacking team may chose to reach the safe from above using a zip-line, dig a long and undetected tunnel across the map or simply rush fully armed.
-  
-	Finally, each player may only see what he and his team can see in front of them, so that the strategy chosen by their enemies remain hidden until they discover it.
+  Finally, each player may only see what he and his team can see in front of them, so that the strategy chosen by their enemies remain hidden until they discover it.
 	
 Technical features :
 
